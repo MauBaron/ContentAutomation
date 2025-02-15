@@ -1,0 +1,14 @@
+.DS_Store
+__pycache__/
+.env
+.venv/
+
+# Keep folders but ignore contents
+AudioAssets/*
+!AudioAssets/.gitkeep
+
+VideoAssets/*
+!VideoAssets/.gitkeep
+
+OutputVideos/*
+!OutputVideos/.gitkeep 
